@@ -7,5 +7,6 @@
   "categories": ["languages"],
   "activationEvents": ["onLanguage:glsl", "onWorkspaceContains:*.glsl"],
   "repository": "https://github.com/victorronnow/nova-glsl",
+  "bugs": "https://github.com/victorronnow/nova-glsl/issues",
   "license": "MIT"
 }
