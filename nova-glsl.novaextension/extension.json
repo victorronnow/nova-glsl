@@ -1,0 +1,11 @@
+{
+  "identifier": "io.ronnow.glsl",
+  "name": "GLSL",
+  "organization": "Victor Rønnow",
+  "description": "Syntax highlighting for GLSL files.",
+  "version": "0.1",
+  "categories": ["languages"],
+  "activationEvents": ["onLanguage:glsl", "onWorkspaceContains:*.glsl"],
+  "repository": "https://github.com/victorronnow/nova-glsl",
+  "license": "MIT"
+}

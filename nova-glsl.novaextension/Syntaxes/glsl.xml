@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syntax name="glsl">
+    <meta>
+        <name>GLSL</name>
+        <type>script</type>
+        <preferred-file-extension>glsl</preferred-file-extension>
+    </meta>
+
+    <detectors>
+        <extension priority="1.0">vs,fs,gs,vsh,fsh,gsh,vshader,fshader,gshader,vert,frag,geom,tesc,tese,comp,glsl,f.glsl,v.glsl,g.glsl</extension>
+    </detectors>
+
+    <tree-sitter language="glsl">
+        <highlights path="highlights.scm"/>
+    </tree-sitter>
+</syntax>
