@@ -10,6 +10,12 @@
         <extension priority="1.0">vs,fs,gs,vsh,fsh,gsh,vshader,fshader,gshader,vert,frag,geom,tesc,tese,comp,glsl,f.glsl,v.glsl,g.glsl</extension>
     </detectors>
 
+    <comments>
+        <single>
+            <expression>//</expression>
+        </single>
+    </comments>
+
     <tree-sitter language="glsl">
         <highlights path="highlights.scm"/>
     </tree-sitter>
