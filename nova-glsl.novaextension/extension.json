@@ -3,7 +3,7 @@
   "name": "GLSL",
   "organization": "Victor Rønnow",
   "description": "Syntax highlighting for GLSL files.",
-  "version": "0.1",
+  "version": "0.2",
   "categories": ["languages"],
   "activationEvents": ["onLanguage:glsl", "onWorkspaceContains:*.glsl"],
   "repository": "https://github.com/victorronnow/nova-glsl",
